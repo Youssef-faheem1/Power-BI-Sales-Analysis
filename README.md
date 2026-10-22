@@ -37,3 +37,6 @@ Project Files
 Objective
 
 To transform sales data into an interactive report that supports business analysis and decision-making.
+## Dashboard Preview
+
+![Sales Analysis Dashboard](Dashboard.png)
